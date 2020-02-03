@@ -1,0 +1,100 @@
+D:/Project/verilog_pro/github_project/code/micro_uart/hdl/micro_uart.v {1 {vlog -work work -vopt -stats=none D:/Project/verilog_pro/github_project/code/micro_uart/hdl/micro_uart.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module micro_uart
+
+Top level modules:
+	micro_uart
+
+} {} {}} D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v {2 {vlog -work work -vopt -stats=none D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module micro_uart_apb_testbench
+** Warning: ** while parsing macro expansion: 'MUATST_BAUDREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(136)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(136): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(148)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(148): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(163)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(163): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(171)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(171): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(176)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(176): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_BAUDREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(212)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(212): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(228)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(228): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(243)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(243): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(252)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(252): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(267)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(267): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(284)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(284): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(290)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(290): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(320)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(320): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(335)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(335): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(353)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(353): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(365)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(365): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_BAUDREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(393)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(393): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(398)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(398): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(408)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(408): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(430)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(430): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(450)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(450): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_BAUDREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(490)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(490): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(492)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(492): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_STATREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(520)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(520): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_BAUDREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(522)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(522): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: ** while parsing macro expansion: 'MUATST_DATAREG' starting at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(524)
+** at D:/Project/verilog_pro/github_project/code/micro_uart/tb/micro_uart_testbench.v(524): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	micro_uart_apb_testbench
+
+} {} {}} D:/Project/verilog_pro/github_project/code/micro_uart/hdl/micro_uart_apb.v {1 {vlog -work work -vopt -stats=none D:/Project/verilog_pro/github_project/code/micro_uart/hdl/micro_uart_apb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module micro_uart_apb
+
+Top level modules:
+	micro_uart_apb
+
+} {} {}}

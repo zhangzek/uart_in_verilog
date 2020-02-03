@@ -1,0 +1,8 @@
+D:/Project/verilog_pro/project_module/sdram_controller/src/uart_tx_tb.v {1 {vlog -work work -vopt -stats=none D:/Project/verilog_pro/project_module/sdram_controller/src/uart_tx_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module uart_tx_tb
+
+Top level modules:
+	uart_tx_tb
+
+} {} {}}
